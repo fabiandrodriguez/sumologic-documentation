@@ -11,7 +11,7 @@ This page has information about creating and managing custom Insight statuses.
 
 To view Insight statuses:
 
-1. Click the gear icon near the top of the CSE UI and choose **Workflow** under **Users**.
+1. Click the gear icon near the top of the CSE UI and choose **Statuses** under **Workflow**.
 1. This screenshot of the **Workflow** page shows the three Insight statuses that are preconfigured:
     * **New**
     * **In Progress**
